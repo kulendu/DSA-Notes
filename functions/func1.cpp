@@ -5,7 +5,7 @@ using namespace std;
 // function with no arguments and no return types 
 // for function with return types use 'int' and for no return types we use 'void'
 void sum()
-{
+{ 
     int a,  b,  c;
     cout<<"Enter the first number:";
     cin>>a;
